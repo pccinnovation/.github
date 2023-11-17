@@ -1,14 +1,10 @@
 ### Hi there 👋
 
 Welcome to PCCI (Parkland Center for Clinical Innovation) GitHub Page.  
-Here is the most important things to know about PCCI.
-
----
 
 <br>
-<br>
 
-> “Many hospitals and healthcare systems have an interest in addressing SDOH, yet few can claim the positive results PCCI has experienced.” -HealthLeaders
+> “Many hospitals and healthcare systems have an interest in addressing SDOH, yet few can claim the positive results PCCI has experienced.” - HealthLeaders
 
 <br>
 <br>
